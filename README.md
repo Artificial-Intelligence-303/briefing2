@@ -9,19 +9,25 @@ This repository is your group's second briefing. You are to submit the two files
 
 Both files are due **by 2:30pm on Tuesday, October 6**, the start of lab, which is when you will present. Push them to this repository.
 
+## Where the reading comes from: AAAI
+
+**AAAI**, the Association for the Advancement of Artificial Intelligence, is the main scientific society
+for AI research. It runs the AAAI Conference, publishes *AI Magazine*, and sends **AI-Alert**, a weekly
+email digest of AI news selected from newspapers and magazines, grouped into topics. Every article in
+`articles.md` comes from the AI-Alert of July 1, 2026. AAAI's AI news site is https://aitopics.org.
+
 ## Groups and themes
 
-**You choose your own group, of three or four people.** Each group takes one of the seven themes in
+**You choose your own group, of three or four people.** Each group takes one of the six themes in
 `articles.md`, one group per theme, chosen in class.
 
-**This round gives you the reading.** Every theme comes with two to four articles published between June 29 and
-September 18, 2026. Your developments come from those articles. You may add one more development from a
+**This round gives you the reading.** Every theme comes with two or three news articles published between
+June 24 and June 30, 2026. Your developments come from those articles. You may add one more development from a
 source you find yourself, if it is dated within the last three months.
 
 ## The three things that make it a briefing rather than a summary
 
-**1. Numbers.** Every development you report needs a figure with a unit and a date. The research articles
-report their own measurements; use those.
+**1. Numbers.** Every development you report needs a figure with a unit and a date.
 
 **2. Data you can point at.** Every number appears on the page behind your link. If a news story cites a
 report or a filing, follow it there.
@@ -53,10 +59,9 @@ Three points, split three ways.
 
 ## How this assignment was built
 
-The themes come from two places I chose: the AAAI AI-Alert digest of July 1, 2026, and recent issues of
-*AI Magazine*. I used Claude to group the articles into themes, to check that every link opens and every date
-falls within the last three months, and to draft this README and `articles.md`. Where the digest pointed to a
-site that could not be checked, the same news story is linked from a publication that could.
+I chose the AAAI AI-Alert digest of July 1, 2026, and decided this round would use news only. I used Claude to open and
+read every article in it, to drop the ones that were research papers, behind a paywall, or advertising,
+to group the rest into themes, and to draft this README and `articles.md`.
 
 ## Using AI on this
 

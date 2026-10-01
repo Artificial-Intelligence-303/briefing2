@@ -1,4 +1,4 @@
-# Briefing 2: AI in the news — CMPSC 303
+# Briefing 2: AI in the news (CMPSC 303)
 
 This repository is your group's second briefing. You are to submit the two files listed below and give a 3-5 minute presentation.
 
@@ -22,18 +22,31 @@ email digest of AI news selected from newspapers and magazines, grouped into top
 `articles.md`, one group per theme, chosen in class.
 
 **This round gives you the reading.** Every theme comes with two or three news articles published between
-June 24 and June 30, 2026. Your developments come from those articles. You may add one more development from a
-source you find yourself, if it is dated within the last three months.
+June 24 and June 30, 2026. Read every article under your theme.
+
+## What this briefing practices
+
+Two of the course learning outcomes:
+
+- **Outcome 1:** "Correctly implement an intelligent agent and accurately describe its properties." This
+  briefing practices the second half: you describe one AI system from your articles the way this course
+  describes an agent, by who runs it, what it perceives, and what it does.
+- **Outcome 5:** "Evaluate intelligent systems while considering their social, political, and ethical
+  implications and communicate their outcomes in both written and oral forms." You judge what the
+  articles claim, who is affected, and what the articles leave out, then brief the class.
 
 ## The three things that make it a briefing rather than a summary
 
-**1. Numbers.** Every development you report needs a figure with a unit and a date.
+**1. Evidence, and who it comes from.** For each article, name the strongest evidence it gives (a
+number with its unit, a document, a quote) and say who that evidence comes from. A company's own
+figure, a government letter, and an unnamed source are not equally strong.
 
-**2. Data you can point at.** Every number appears on the page behind your link. If a news story cites a
-report or a filing, follow it there.
+**2. The articles side by side.** Your articles cover the same story from different outlets. Say where
+they agree and where they differ.
 
-**3. A visual.** One picture the class can read in ten seconds. **Make it or find it, either is fine.** If you
-make it, say what data it is built from. If you find it, say who published it.
+**3. A visual.** One picture the class can read in ten seconds. **Make it or find it, either is fine.** A
+chart built from the numbers in your articles works well. If you make it, say what data it is built
+from. If you find it, say who published it.
 
 ## How to fill it in
 
@@ -53,8 +66,8 @@ Three points, split three ways.
 
 | Component | Points | Notes |
 | :--- | :--- | :--- |
-| The written brief | 1 | Every field answered specifically. Every development has a source, a date, a link, and a number. Your visual is present and attributed. |
-| The analysis | 1 | Your claims are supported by what you cite, you understood what you read, and you explained "why it matters". |
+| The written brief | 1 | Every field answered specifically. The AI system is described. Every article has its source, date, link, evidence, and who the evidence comes from. Your visual is present and attributed. |
+| The analysis | 1 | You understood what you read, compared the articles accurately, and explained who is affected and what the articles leave out. |
 | The oral briefing | 1 | Graded individually on clarity. Each team has three to five minutes, and time to answer a question afterwards. |
 
 ## How this assignment was built

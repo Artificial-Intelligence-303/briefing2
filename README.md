@@ -7,7 +7,7 @@ This repository is your group's second briefing. You are to submit the two files
 | Your written briefing | `briefing.md`, in this folder, with that exact name | Yes |
 | Your visual | `figure.png` (or `.jpg`, or `.svg`), in this folder | Yes |
 
-Both files are due **by 2:30pm on Tuesday, October 6**, the start of lab, which is when you will present. Push them to this repository.
+Both files are due **by 11:00am on Thursday, October 15**, the start of class, which is when you will present. Push them to this repository.
 
 ## Where the reading comes from: AAAI
 
